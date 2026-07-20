@@ -1,0 +1,43 @@
+{
+  "model": "XGBoost Regressor",
+  "features": [
+    "pm25",
+    "pm10",
+    "no2",
+    "so2",
+    "co",
+    "o3",
+    "nh3",
+    "temperature",
+    "humidity",
+    "pressure",
+    "wind_speed"
+  ],
+  "dataset_size": 6000,
+  "train_size": 4800,
+  "test_size": 1200,
+  "rmse": 57.453,
+  "mae": 29.579,
+  "r2": 0.8122,
+  "feature_importance": {
+    "pm25": 0.2116,
+    "pm10": 0.1101,
+    "no2": 0.0883,
+    "so2": 0.0861,
+    "co": 0.2834,
+    "o3": 0.0839,
+    "nh3": 0.0327,
+    "temperature": 0.0243,
+    "humidity": 0.0276,
+    "pressure": 0.0295,
+    "wind_speed": 0.0224
+  },
+  "trained_at": "2026-07-20T15:27:55.202911+00:00",
+  "hyperparameters": {
+    "n_estimators": 350,
+    "max_depth": 6,
+    "learning_rate": 0.08,
+    "subsample": 0.85,
+    "colsample_bytree": 0.85
+  }
+}
