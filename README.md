@@ -231,7 +231,6 @@ Target
 
 # Contributors
 
-**Ayush Kumar Choudhary**
 
 B.Tech Computer Science & Engineering
 
