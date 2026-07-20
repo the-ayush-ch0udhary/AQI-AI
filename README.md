@@ -232,8 +232,6 @@ Target
 # Contributors
 
 
-B.Tech Computer Science & Engineering
-
 ---
 
 # License
