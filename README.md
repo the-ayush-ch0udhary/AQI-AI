@@ -129,12 +129,6 @@ Backend runs at
 http://localhost:8000
 ```
 
-Swagger Documentation
-
-```
-http://localhost:8000/docs
-```
-
 ---
 
 ## 3. Frontend Setup
