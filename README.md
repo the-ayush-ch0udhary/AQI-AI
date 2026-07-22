@@ -224,8 +224,10 @@ Target
 ---
 
 # Contributors
-
-
+- Ayush Kumar Choudhary
+- Soumya
+- Shashwat Awasthi
+- Hritam Samanta
 ---
 
 # License
